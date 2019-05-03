@@ -1,3 +1,3 @@
-Yamaguchi Style
+# Yamaguchi Style
 
-Iwakuni Drifting Heroes
+## Iwakuni Drifting Heroes
