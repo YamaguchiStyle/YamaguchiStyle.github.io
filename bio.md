@@ -23,3 +23,5 @@ Yamaguchi Style is currently composed of seven members, in two countries (The Un
 + Chris Farinella (San Diego, CA)
 
 ![Alt text](29197102_1714165681955965_2979137982503583744_o.jpg)
+
+[Home](index.md)
